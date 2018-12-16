@@ -42,7 +42,7 @@ The purpose of the RFC is to propose extending type hints with chainable advance
         // ...
     }
 
-- OR? -
+OR?
     
     int::range(0, 5)                     $a;
     int::gt(0)                           $b;
